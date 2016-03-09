@@ -56,6 +56,21 @@ footer p {
 	font-size: 18px;
 }
 
+.film-sinopsis a {
+	text-decoration: none;
+	color: blue;
+}
+
+.film-sinopsis a:hover {
+	text-decoration: none;
+	color: green;
+}
+
+.film-sinopsis a:active {
+	text-decoration: underline;
+	color: green;
+}
+
 aside {
 	width: 940px;
 	height: 300px;
